@@ -1,0 +1,17 @@
+.gradle
+
+bin
+
+Reports
+
+Libs
+
+output
+
+!output/.gitkeep
+build
+
+.classpath
+
+.project
+/.vs/Katalon Testing Personal/FileContentIndex/30abe5cd-4d60-435a-870b-c511e46d372d.vsidx
