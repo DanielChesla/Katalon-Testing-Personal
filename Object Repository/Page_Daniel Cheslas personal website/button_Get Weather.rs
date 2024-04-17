@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Get Weather</name>
+   <tag></tag>
+   <elementGuidId>af5332e9-1fe9-4729-88c5-7b2e3ec7cc4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#getWeatherButton</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='getWeatherButton']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d9f279cc-9939-4632-8621-1e0477c883aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>162dff7e-e046-4777-a0cd-3fbd56a950d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>getWeatherButton</value>
+      <webElementGuid>5e64469b-222c-4196-981b-746ced028c93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get Weather</value>
+      <webElementGuid>5a1e7a9d-658c-4431-8eaa-f841b07c4b3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;getWeatherButton&quot;)</value>
+      <webElementGuid>cdb9f9bc-f64b-4378-8fd0-0a050d7ecdf9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='getWeatherButton']</value>
+      <webElementGuid>a96e4aa5-b082-4136-9d4a-bc3f85a9f93f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter ZIP Code:'])[1]/following::button[1]</value>
+      <webElementGuid>1eb9f846-ad22-43e7-9977-86666f627619</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='openweathermap.org'])[1]/following::button[1]</value>
+      <webElementGuid>afc8bfc2-154d-4ff1-a24f-305cc567ad5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Go to my home page'])[1]/preceding::button[1]</value>
+      <webElementGuid>87ab972f-38d0-4e41-b767-fcdab74eeef2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View me on GitHub'])[1]/preceding::button[1]</value>
+      <webElementGuid>6c2e2c48-377e-4512-a3ae-b8352df6090c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Get Weather']/parent::*</value>
+      <webElementGuid>b10eef5c-431b-484f-a3a7-584cc3279499</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/button</value>
+      <webElementGuid>a67a0afb-2370-44c9-941c-ac946c0d5bfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and @id = 'getWeatherButton' and (text() = 'Get Weather' or . = 'Get Weather')]</value>
+      <webElementGuid>65c14620-8090-48ae-8b24-f48bbe657917</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

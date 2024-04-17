@@ -19,25 +19,19 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.maximizeWindow()
+WebUI.navigateToUrl('https://danielchesla.com/weather.html')
 
-//Testing Git process//
-WebUI.navigateToUrl('https://danielchesla.com/')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Daniel Cheslas personal website/h1_Weather Information'), 
+    'Weather Information')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Daniel Cheslas personal website/h1_This is Daniels new page using bootstrap'), 
-    'This is Daniel\'s new page using bootstrap')
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Daniel Cheslas personal website/label_Enter ZIP Code'), 'Enter ZIP Code:')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Daniel Cheslas personal website/div_About Me'), 'About Me')
+WebUI.setText(findTestObject('Object Repository/Page_Daniel Cheslas personal website/input_Enter ZIP Code_zipCode'), '08088')
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Daniel Cheslas personal website/div_Skills'), 'Skills')
+WebUI.click(findTestObject('Object Repository/Page_Daniel Cheslas personal website/button_Get Weather'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Daniel Cheslas personal website/div_Industries'), 'Industries')
-
-WebUI.verifyElementText(findTestObject('Object Repository/Page_Daniel Cheslas personal website/div_Education'), 'Education')
-
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Daniel Cheslas personal website/a_Go to my home page'))
-
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_Daniel Cheslas personal website/a_View me on GitHub'))
+WebUI.verifyElementText(findTestObject('Object Repository/Page_Daniel Cheslas personal website/p_Current weather in Vincentown'), 
+    'Current weather in Vincentown')
 
 WebUI.closeBrowser()
 
