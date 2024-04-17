@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.maximizeWindow()
+
 WebUI.navigateToUrl('https://danielchesla.com/weather.html')
 
 WebUI.verifyElementText(findTestObject('Object Repository/Page_Daniel Cheslas personal website/h1_Weather Information'), 

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Total Interest Paid 137096.05</name>
+   <tag></tag>
+   <elementGuidId>a842cae3-8e7f-4034-9fc0-db28c81be9c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='results']/p[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>bc710db9-9125-4fdf-a8cd-d5d4943fba49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Total Interest Paid: $137096.05</value>
+      <webElementGuid>2c1f19f3-3b7f-4324-91c9-82dac551c123</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;results&quot;)/p[2]</value>
+      <webElementGuid>505772ac-d66e-46ad-8057-f7d706a2723c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='results']/p[2]</value>
+      <webElementGuid>1f2b777a-48ed-4a56-947d-ba2eaa6ccf54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Results'])[1]/following::p[2]</value>
+      <webElementGuid>1a1c947d-d64a-4512-8e5f-f1b7e205452f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Calculate'])[1]/following::p[2]</value>
+      <webElementGuid>016438d6-418d-466a-9cc5-9ceb5c2faab3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Amortization Schedule'])[1]/preceding::p[1]</value>
+      <webElementGuid>d5d0f7c0-24dd-47a2-af31-61b7f7cef25d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Month'])[1]/preceding::p[1]</value>
+      <webElementGuid>98d9ba2e-e8a7-492c-b86c-9d32ffa43509</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Total Interest Paid: $']/parent::*</value>
+      <webElementGuid>a8eb9ef7-9195-4238-bcc6-a25d8466ce10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/p[2]</value>
+      <webElementGuid>0d601db2-6b81-4e66-abcf-b68027226a81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Total Interest Paid: $137096.05' or . = 'Total Interest Paid: $137096.05')]</value>
+      <webElementGuid>8c3ad2f4-5a86-4f9a-a653-a02245b39645</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
